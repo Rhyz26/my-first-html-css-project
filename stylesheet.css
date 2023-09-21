@@ -1,0 +1,30 @@
+h1 {
+    color:brown;
+}
+.one {
+    color:blue;
+    font-family: fantasy;
+    font-size: larger;
+    font-weight:bold;
+    letter-spacing: 2px;
+    text-indent: 4rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+h2 {
+    color:yellowgreen;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+p {
+    color:rgb(237, 100, 196);
+    font-size: 3rem;
+}
+div {
+    color:brown;
+    font-size: 2rem;
+}
+body {
+    background-image: ;
+}
